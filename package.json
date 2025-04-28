@@ -1,0 +1,15 @@
+{
+  "name": "fundamental-js",
+  "version": "1.0.0",
+  "description": "Belajar Javascript Fundamental",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mohamad Ismi Azis",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
