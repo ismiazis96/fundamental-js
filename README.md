@@ -14,6 +14,8 @@ Buka **Command Prompt** atau **Terminal** dan jalankan perintah berikut untuk me
 npm install prompt-sync
 ```
 
+## 2. **Running Code**
+
 Buka **Command Prompt** atau **Terminal** dan jalankan file script `klasifikasi-usia.js` untuk Running
 
 ```bash
