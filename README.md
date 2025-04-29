@@ -16,8 +16,12 @@ npm install prompt-sync
 
 ## 2. **Running Code**
 
-Buka **Command Prompt** atau **Terminal** dan jalankan file script `klasifikasi-usia.js` untuk Running
+Buka **Command Prompt** atau **Terminal** dan jalankan file script `klasifikasi-usia.js` dan `kalkulator.js` untuk Running
 
 ```bash
 node klasifikasi-usia.js
+```
+
+```bash
+node kalkulator.js
 ```
